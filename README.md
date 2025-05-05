@@ -5,3 +5,6 @@ Due to sizing constraints, our model could not be uplaoded to Github. Instead, y
 
 https://drive.google.com/drive/folders/1Ifu_yvp7A3YN2u82t18zCCOTyd0L9TW3?usp=sharing
 
+Our dataset can be found here off of Kaggle:
+
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
